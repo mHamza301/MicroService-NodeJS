@@ -1,5 +1,4 @@
 node_modules
 infra
-/Dockerfile
+Dockerfile
 .vscode
-/.dockerignore
