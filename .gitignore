@@ -1,4 +1,6 @@
 node_modules
 infra
-Dockerfile
+query/Dockerfile
+
 .vscode
+query/.dockerignore
