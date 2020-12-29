@@ -1,6 +1,10 @@
 node_modules
 infra
 query/Dockerfile
-
+moderation/Dockerfile
+posts/Dockerfile
+comments/Dockerfile
+event-bus/Dockerfile
+client/Dockerfile
 .vscode
-query/.dockerignore
+skaffold.yaml
